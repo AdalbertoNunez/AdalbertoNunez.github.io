@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Landing Page CSS",
+			"path": ".."
+		},
+		{
+			"name": "C# Visual S. Code",
+			"path": "../../Android Studio/C# Visual S. Code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Landing Page CSS"
+	}
+}
